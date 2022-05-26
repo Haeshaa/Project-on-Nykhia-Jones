@@ -1,0 +1,13 @@
+body {
+    background-color: lightpink;
+}
+p{ color : white;}
+h3 {color: hotpink;}
+h1{color: white;}
+li{color:white;}
+.shopping{color:purple;}
+font-size {width:50px;}
+h1 {font-family: 'Zen Kurenaido', sans-serif;}
+p {font-family: 'Dancing Script', cursive;}
+h3 {font-family: 'Open Sans Condensed', sans-serif;}
+li {font-family: 'Josefin Sans', sans-serif;}
